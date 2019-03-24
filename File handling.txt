@@ -1,0 +1,8 @@
+File handling
+12 to store the output in files
+7 is used to read data from files
+11 copy a file
+10 close files
+     enclose the pointers for files
+      release the memory 
+4 rename a file
