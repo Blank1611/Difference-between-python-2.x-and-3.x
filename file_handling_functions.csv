@@ -1,0 +1,16 @@
+number,answer
+13,truncate
+1,isatty
+10,fileno
+15,filename
+6,flush
+12,errors
+2,encoding
+7,seekable
+4,readable
+9,tell
+14,detach
+5,writable
+8,newline
+3,readlines
+11,mode
