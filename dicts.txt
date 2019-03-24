@@ -1,0 +1,6 @@
+2 pop
+9 values
+1 
+
+8 .fromkeys
+10 clear

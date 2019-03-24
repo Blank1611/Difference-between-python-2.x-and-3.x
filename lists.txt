@@ -1,0 +1,12 @@
+13 pop
+12 reverse
+10 sort
+4 difference
+6 copy
+15 append
+2 extend
+1 insert
+9 count
+11 clear
+3 remove
+16 
