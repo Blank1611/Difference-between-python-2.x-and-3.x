@@ -1,0 +1,9 @@
+import random
+num = random.randint(1,100)
+print(num)
+integer = int(input("Enter your guessing number"))
+one = abs(num - integer)
+if one in range(1,10):
+    print("WARM")
+else:
+    print("COLD!")
