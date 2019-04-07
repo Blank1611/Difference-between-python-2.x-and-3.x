@@ -1,6 +1,8 @@
 def set_calc(x,M):
     for i in range (M):
+        #calculate remainder by dividing by 6
         r=(x[i]%6)
+        #check for which type the remainder falls under
         if (r==0):
             if  opp_no(x[i]):
                 print(x[i]-11, "WS", sep = " ")
@@ -31,6 +33,7 @@ def set_calc(x,M):
                 print(x[i]+3, "MS", sep = " ")
             else:
                 print(x[i]-9, "MS", sep = " ")
+#check for odd or even
 def opp_no(oe):
     if (oe//6)%2==0:
         return True
