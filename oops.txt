@@ -1,0 +1,15 @@
+6,definition of oops(Object-oriented programming (OOP) is a programming language model in which programs are organized around data, or objects, rather than functions and logic.)
+12,data hiding
+11,data reusability
+7,inheritance
+5,Bottom up aproach
+8,polymorphism
+10,encapsulation
+2,data security
+4,attributes are there inside a class
+9,class is custom data type
+1,objects can interact with each other using message passing
+14,objects have a separate memory so that they dont get mxed up 
+3,dynamic data binding
+13,garbage memory(all objects are stored here)
+ 
